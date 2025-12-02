@@ -1,2 +1,2 @@
 local player = game.Players.LocalPlayer
-player:Kick("you're unbanned jayden still a fatass")
+player:Kick("Jayden is gay")
